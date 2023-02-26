@@ -3,7 +3,7 @@
   "name": "mon-module",
   "title": "Mon Module",
   "description": "Mes cartes a jouer...",
-  "version": "1.0.0",
+  "version": "1.01.01",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "10",
   "compatibility": {
