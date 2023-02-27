@@ -7,7 +7,3 @@ They are some battlemaps I have build to play with my group. Using The Forge VTT
 
 2 - Arena (using tiles), a part of a biger place
 
-|ffff|fdfsd|
-|----|-----|
-|dlkflds|fdl;kfl;kds|
-
