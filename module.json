@@ -2,8 +2,8 @@
   "id": "mon-module",
   "name": "mon-module",
   "title": "Mon Module",
-  "description": "Mes cartes a jouer...",
-  "version": "1.01.01",
+  "description": "My scenes, tiles and actors to play with.",
+  "version": "1.02.02",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "10",
   "compatibility": {
@@ -14,8 +14,7 @@
   "author": "Kenjiskan",
   "authors": [
     {
-      "name": "Kenjiskan",
-      "discord": "kenjiskan#1234"
+      "name": "Kenjiskan"
     }
   ],
   "packs": [
@@ -39,13 +38,25 @@
     "requires": [
       {
         "id": "levels",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
+      },
+      {
+        "id": "betterroofs",
+        "type": "module"
+      },
+      {
+        "id": "token-attacher",
+        "type": "module"
+      },
+      {
+        "id": "compendium-folders",
+        "type": "module"
       }
     ]
   },
   "url": "https://github.com/riccoDK/mon-module",
   "manifest": "https://github.com/riccoDK/mon-module/releases/download/latest/module.json",
   "download": "https://github.com/riccoDK/mon-module/releases/download/latest/mon-module.zip",
-  "manifestPlusVersion": "1.2.0"
+  "readme": "https://github.com/riccoDK/mon-module/releases/download/latest/README.md"
 }
+
