@@ -3,7 +3,7 @@
   "name": "mon-module",
   "title": "Mon Module",
   "description": "My scenes, tiles and actors to play with.",
-  "version": "1.02.02",
+  "version": "1.03.01",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "10",
   "compatibility": {
@@ -46,6 +46,14 @@
       },
       {
         "id": "token-attacher",
+        "type": "module"
+      },
+      {
+        "id": "multiface-tiles",
+        "type": "module"
+      },
+      {
+        "id": "elevationvision",
         "type": "module"
       },
       {
