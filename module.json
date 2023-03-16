@@ -3,7 +3,7 @@
   "name": "mon-module",
   "title": "Mon Module",
   "description": "My scenes, tiles and actors to play with.",
-  "version": "1.03.04",
+  "version": "1.03.05",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "10",
   "compatibility": {
@@ -57,7 +57,7 @@
         "type": "module"
       },
       {
-        "id": "elevationvision",
+        "id": "elevatedvision",
         "type": "module"
       },
       {
